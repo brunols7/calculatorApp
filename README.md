@@ -1,7 +1,7 @@
 
 # 🌟 Calculadora Flutter
 
-Este repositório contém o código-fonte de uma calculadora simples e eficiente desenvolvida em Flutter. 🚀
+Este repositório contém o código-fonte de uma calculadora simples e eficiente, inspirada na calculadora do macOS, desenvolvida em Flutter. 🚀
 
 ## 📱 Sobre o App
 
@@ -22,11 +22,11 @@ Este aplicativo foi criado para realizar cálculos matemáticos de maneira rápi
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/usuario/repositorio.git
+   git clone https://github.com/brunols7/calculatorApp.git
    ```
 2. Entre na pasta do projeto:
    ```bash
-   cd calculadora-flutter
+   cd calculatorApp
    ```
 3. Instale as dependências:
    ```bash
