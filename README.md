@@ -1,7 +1,7 @@
 
 # 🌟 Calculadora Flutter
 
-Este repositório contém o código-fonte de uma calculadora simples e eficiente desenvolvida em Flutter. 🚀
+Este repositório contém o código-fonte de uma calculadora simples e eficiente, inspirada na calculadora do macOS, desenvolvida em Flutter. 🚀
 
 ## 📱 Sobre o App
 
