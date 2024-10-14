@@ -1,0 +1,7 @@
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.so linguist-vendored
+*.a linguist-vendored
+*.o linguist-vendored
+android/** linguist-vendored
+ios/** linguist-vendored
